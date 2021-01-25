@@ -9,6 +9,8 @@ convert collab35.xcf 35p/full.png
 
 ## Outputs
 
+[**BBCode for osu!**](./collab.txt)
+
 ![](./png/full-0.png)
 ![](./png/full-1.png)
 ![](./png/full-2.png)
